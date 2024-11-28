@@ -1,0 +1,3 @@
+spring.application.name=users
+server.port=8090
+spring.data.mongodb.uri=mongodb+srv://adminleo:H5fBkGN6jLOTNhLR@javacrud.ifcmh.mongodb.net/javadb?retryWrites=true&w=majority&appName=javaCrud

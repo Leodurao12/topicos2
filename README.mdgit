@@ -1,0 +1,2 @@
+"# topicos2"  initgit add .git commit -m "first commit"git branch -M maingit remote add origin https://github.com/Leodurao12/topicos2.gitgit push -u origin main
+"# topicos2"  init
